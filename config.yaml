@@ -1,0 +1,20 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@medical.com
+      name: 管理员
+      password: $2b$12$jcb724coOSuyKL8y0JZafeY5mb2cG5EZYeVHZ2EtZp3XE7pKknO8i
+      avatar: boy
+    user:
+      email: user@medical.com
+      name: 用户
+      password: $2b$12$jcb724coOSuyKL8y0JZafeY5mb2cG5EZYeVHZ2EtZp3XE7pKknO8i
+      avatar: girl
+cookie:
+  expiry_days: 30
+  key: medical_rag_auth_key
+  name: medical_rag_auth_cookie
+preauthorized:
+  emails:
+    - admin@medical.com
+    - user@medical.com

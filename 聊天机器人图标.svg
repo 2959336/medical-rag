@@ -1,0 +1,37 @@
+<svg width="960" height="960" viewBox="0 0 960 960" xmlns="http://www.w3.org/2000/svg">
+  <!-- 浅蓝背景 -->
+  <rect width="960" height="960" rx="480" fill="#cce7ff"/>
+  <!-- 天线底座 -->
+  <rect x="130" y="180" width="18" height="160" rx="9" fill="#1989fa"/>
+  <circle cx="139" cy="180" r="32" fill="#1989fa"/>
+  <rect x="812" y="180" width="18" height="160" rx="9" fill="#1989fa"/>
+  <circle cx="821" cy="180" r="32" fill="#1989fa"/>
+  <!-- 耳机外壳 -->
+  <rect x="100" y="320" width="60" height="180" rx="20" fill="#ffffff"/>
+  <rect x="120" y="340" width="30" height="140" rx="15" fill="#1989fa"/>
+  <rect x="800" y="320" width="60" height="180" rx="20" fill="#ffffff"/>
+  <rect x="810" y="340" width="30" height="140" rx="15" fill="#1989fa"/>
+  <!-- 机器人头盔主体 -->
+  <path d="M200 140 Q480 80 760 140 L800 540 Q480 620 160 540 Z" fill="#ffffff" stroke="#b3d9fa" stroke-width="4"/>
+  <!-- 医疗十字 -->
+  <rect x="440" y="160" width="80" height="30" rx="6" fill="#1989fa"/>
+  <rect x="465" y="135" width="30" height="80" rx="6" fill="#1989fa"/>
+  <!-- 蓝色脸部屏幕 -->
+  <rect x="240" y="300" width="480" height="200" rx="40" fill="#1989fa"/>
+  <!-- 高光圆点 -->
+  <circle cx="320" cy="330" r="18" fill="#ffffff" opacity="0.4"/>
+  <!-- 弯弯眼睛 -->
+  <path d="M340 400 Q380 360 420 400" stroke="#ffffff" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M540 400 Q580 360 620 400" stroke="#ffffff" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <!-- 微笑嘴巴 -->
+  <path d="M430 470 Q480 510 530 470" stroke="#ffffff" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <!-- 脖子 -->
+  <rect x="380" y="560" width="200" height="40" rx="10" fill="#1989fa"/>
+  <!-- 身体躯干 -->
+  <path d="M220 600 Q480 560 740 600 L720 740 Q480 790 240 740 Z" fill="#ffffff" stroke="#b3d9fa" stroke-width="3"/>
+  <!-- 身体蓝条纹 -->
+  <rect x="260" y="620" width="22" height="90" rx="8" fill="#1989fa"/>
+  <rect x="678" y="620" width="22" height="90" rx="8" fill="#1989fa"/>
+  <!-- 胸口凹槽 -->
+  <rect x="380" y="660" width="200" height="45" rx="22" fill="#cce7ff"/>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "password": "123456",
+    "avatar": "boy",
+    "created_at": "2026-06-27T17:45:00.390568"
+  },
+  "user": {
+    "password": "123456",
+    "avatar": "girl",
+    "created_at": "2026-06-27T17:45:00.391010"
+  }
+}

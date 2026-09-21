@@ -1,0 +1,14 @@
+{
+  "valid_users": {
+    "admin": "123456",
+    "user": "123456",
+    "123": "123456",
+    "dachun": "123456"
+  },
+  "user_avatars": {
+    "admin": "boy",
+    "user": "girl",
+    "123": "boy",
+    "dachun": "boy"
+  }
+}
